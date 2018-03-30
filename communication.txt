@@ -1,0 +1,88 @@
+Communication:
+
+ The transmission of data from one computer to another, or from one device to another.
+
+ For example, modems, cables, and ports are all communications devices.
+
+
+Modes of communication:
+
+Transmission mode refers to the mechanism of transferring of data between two devices connected over a network. It is also called Communication Mode. These modes direct the direction of flow of information. There are three types of transmission modes. They are:
+
+Simplex Mode
+Half duplex Mode
+Full duplex Mode
+
+
+SIMPLEX Mode:
+
+In this type of transmission mode, data can be sent only in one direction i.e. communication is unidirectional. We cannot send a message back to the sender. 
+
+Examples of simplex Mode are loudspeakers, television broadcasting, television and remote, keyboard and monitor etc
+
+HALF DUPLEX Mode:
+
+Half-duplex data transmission means that data can be transmitted in both directions on a signal carrier, but not at the same time.
+
+Example of half duplex is a walkie- talkie in which message is sent one at a time but messages are sent in both the directions.
+
+
+FULL DUPLEX Mode:
+
+In full duplex system we can send data in both the directions as it is bidirectional at the same time in other words, data can be sent in both directions simultaneously.
+
+Example of Full Duplex is a Telephone Network in which there is communication between two persons by a telephone line, using which both can talk and listen at the same time.
+
+
+What is a converged network?
+
+A convergent network integrates voice, video and data into one system
+
+A convergent network is the next level in computer communications – not only data is transferred, but also voice and video are shared using Internet protocol (IP).
+
+Instead of regular phone lines, a converged network is used, decreasing or eliminating long distance costs, a major plus to any business.
+
+
+Requirements:
+
+Broadband
+
+Tools
+
+Architecture
+
+Advantages:
+
+Savings
+
+Flexibility
+
+Simplicity
+
+
+Advantages of Computer Networking
+1. Easy Communication and Speed
+
+It is very easy to communicate through a network. People can communicate efficiently using a network with a group of people. They can enjoy the benefit of emails, instant messaging, telephony, video conferencing, chat rooms, etc.
+
+2. Ability to Share Files, Data and Information
+
+This is one of the major advantages of networking computers. People can find and share information and data because of networking. This is beneficial for large organizations to maintain their data in an organized manner and facilitate access for desired people.
+
+ 3. Sharing Hardware
+Another important advantage of networking is the ability to share hardware. For an example, a printer can be shared among the users in a network so that there’s no need to have individual printers for each and every computer in the company. This will significantly reduce the cost of purchasing hardware.
+
+4. Sharing Software
+
+Users can share software within the network easily. Networkable versions of software are available at considerable savings compared to individually licensed version of the same software. Therefore large companies can reduce the cost of buying software by networking their computers.
+
+5. Security
+
+Sensitive files and programs on a network can be password protected. Then those files can only be accessed by the authorized users. This is another important advantage of networking when there are concerns about security issues. Also each and every user has their own set of privileges to prevent them accessing restricted files and programs.
+
+ 6. Speed
+Sharing and transferring files within networks is very rapid, depending on the type of network. This will save time while maintaining the integrity of files.
+
+
+
+
